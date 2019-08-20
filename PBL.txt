@@ -1,0 +1,19 @@
+아파치 프로젝트 list 목록 안내
+
+Problem Based Learning 문제 설정
+
+아파치 프로젝트 중 1가지를 택하여, 
+1. Installation Guide 작성
+2. Development Guide 작성
+작성 내용 평가
+
+참고, 본인의 프로젝트와 연계되어 있다면, 연계된 내용에 대해 함께 설명 할 것
+이 경우,
+3. UserGuide를 함께 작성할 것
+
+각, Documentation에 대해, 함께 리뷰(Peer-Review)
+
+Documentation과 Record의 차이점
+문서와 기록의 차이
+
+현재 만드는 것은 문서
